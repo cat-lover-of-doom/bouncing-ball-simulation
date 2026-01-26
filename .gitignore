@@ -2,3 +2,4 @@ build/
 raylib_app
 *.o
 .DS_Store
+.cache/
